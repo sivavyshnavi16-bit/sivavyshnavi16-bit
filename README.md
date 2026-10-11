@@ -1,6 +1,3 @@
-## Hi there 👋
-# Hi there! 👋 I'm Vyshnavi Reddy
-
 ### Embedded Systems Engineer | Firmware Developer | Electronics & PCB Design
 
 📍 Würzburg, Germany
